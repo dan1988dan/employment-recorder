@@ -1,4 +1,5 @@
-/* Comment */
+/*    https://github.com/dan1988dan */
+
 body {
     font-family:"Open Sans", sans-serif;
     font-size:1rem;
@@ -50,7 +51,4 @@ a, a:hover, a:visited, a:active, a:link {
 }
 .italic {
     font-style: italic;
-}
-text {
-    color:red;
 }
